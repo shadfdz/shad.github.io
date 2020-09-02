@@ -1,6 +1,6 @@
 ## Welcome to Shad's First Github Page
 
-In the future, this will be a section that will describe the particular area of Big Data than I am interested in. 
+In the future, this will be a section that will describe the particular area of Big Data that I am interested in. 
 
 ### Main Interests 
 
